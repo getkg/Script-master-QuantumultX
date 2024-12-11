@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,swccd.edu
   - DOMAIN-SUFFIX,mychandler.bet
   - DOMAIN-SUFFIX,splunkcloud.com
+  - DOMAIN-SUFFIX,amazonaws.com
